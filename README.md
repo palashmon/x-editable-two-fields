@@ -1,4 +1,4 @@
-# X-editable with multiple custom fields
+# X-editable with Two Fields
 X-editable in-place editing with Twitter Bootstrap
 
 This demo shows how we can create two fields with label "Years" & "Days".
